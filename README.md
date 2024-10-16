@@ -1,3 +1,3 @@
 # javascript
 
--[Ejercicio 1 - Calculadora](./Ejercicio1)
+[Ejercicio 1 - Calculadora](./Ejercicio1)
